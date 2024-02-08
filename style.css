@@ -33,7 +33,7 @@ body {
 }
 
 #profile-pic {
-  width: min(200px,80%);
+  width: min(300px,80%);
   aspect-ratio: 1 / 1;
   border-radius: 50%;
 }
